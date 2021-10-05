@@ -3,3 +3,5 @@ Hi, (Line 1) ( Line 1 in branch B1)
 
 
 Line 5 ( master)
+
+For lab work 6
